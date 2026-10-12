@@ -1,1 +1,1 @@
-# QAManual02072026
+# git-practice
